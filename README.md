@@ -4,10 +4,10 @@ Specifically looked at success rates, goals, funds raised and number of campaign
 
 **Conclusions:**
 
-  *Theater/plays have had the most Kickstarter projects.
-  *Music has the highest success rate.
-  *There was a spike in the number of campaigns in 2015.
-  *Technology is the riskiest category.
+  * Theater/plays have had the most Kickstarter projects.
+  * Music has the highest success rate.
+  * There was a spike in the number of campaigns in 2015.
+  * Technology is the riskiest category.
 
 
 Pivot table showing if campaigns were successful by category.
