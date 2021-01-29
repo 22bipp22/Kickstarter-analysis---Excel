@@ -4,3 +4,5 @@ Specifically looked at success rates, goals, funds raised and number of campaign
 
 Pivot table showing if campaigns were successful by category.
 
+![Alt text](/Users/tylerpitzer/Desktop/post_bootcamp/Screen Shot 2021-01-29 at 3.23.42 PM.png "By Category")
+
