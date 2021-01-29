@@ -16,4 +16,4 @@ Pivot table showing if campaigns were successful by category.
 
 Campaigns by year: 
 
-![Alt text](https://github.com/22bipp22/Kickstarter-analysis---Excel/blob/main/Screen%20Shot%202021-01-29%20at%203.23.42%20PM.png "By Year")
+![Alt text](https://github.com/22bipp22/Kickstarter-analysis---Excel/blob/main/Screen%20Shot%202021-01-29%20at%203.36.26%20PM.png "By Year")
